@@ -5,10 +5,10 @@
  * Melting pot of methods to make a recommandation to a user
  * based on his ratings for a product and the ratings of other users.
  * 
- * This was part of a research project in Advanced concepts 
- * for intelligent systems class.
+ * This was part of a research project in Advanced Concepts 
+ * for Intelligent Systems. I haven't had time to clean it up.
  * 
- * Two techniques are used: Pearson Correlation and 
+ * Two techniques are used: Pearson Correlation (commented sections) and 
  * a mix of Pearson Correlation and genetic algorithms.
  * 
  * This could be upgraded so we simply use the genetic algorithms without
